@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dev201
+Build-Jdk: 11.0.3
+Implementation-Title: springsecurity
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springsecurity
+Created-By: Maven Integration for Eclipse
+
